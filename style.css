@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+button{
+    position: relative;
+    height: 40px;
+    width: 180px;
+    right: 16%;
+    top: 25px;
+    background-color: red;
+    cursor: pointer;
+}
